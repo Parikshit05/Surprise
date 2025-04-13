@@ -103,3 +103,9 @@ a:visited{
         
     }
 }
+
+/* @media (1000px <= width <=1400px){
+    .container{
+        padding: 0 18%;
+    }
+} */
